@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901758193659",
+    "project_id": "zamanisinde",
+    "storage_bucket": "zamanisinde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901758193659:android:077e551b0cb4132a23c55e",
+        "android_client_info": {
+          "package_name": "com.example.zamanisinde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901758193659-98ducd9ji4acshdj6jpu6b1m0v1tvvj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBINt3MntKnWOqq1a4gYmP4W3FKeF3UiCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901758193659-98ducd9ji4acshdj6jpu6b1m0v1tvvj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
