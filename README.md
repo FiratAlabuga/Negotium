@@ -1,17 +1,6 @@
-# zamanisinde
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Negotium
+İş ihtiyaçları gereksinimlerini karşılamak istihdamı desteklemek için yapılmış bir uygulamadır. JFASOF.
+![Screenshot_1614516214](https://user-images.githubusercontent.com/61869832/109423854-3d27d800-79f2-11eb-84f7-25973fa60de9.png)
+![Screenshot_1614516216](https://user-images.githubusercontent.com/61869832/109423855-3dc06e80-79f2-11eb-8891-72ee41cee5fc.png)
 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
